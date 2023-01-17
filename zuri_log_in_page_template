@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>replit</title>
+  <link href="style.css" rel="stylesheet" type="text/css" />
+</head>
+
+<a href="https://Zuri-pretask-Log-in-Page.perfumegoddess.repl.co">
+  <h1>ZURI LOGIN PAGE</h1></a>
+<center>Email<br>
+<input type="text" placeholder="zuri@gmail.com"><br><br>
+Password<br>
+<input type="text" placeholder="abcdefghijk"><br><br>
+<a href="https://Zuri-pretask-Sucess-Navigation-page.perfumegoddess.repl.co"><input type="submit" value="Submit">
+</center></a>
+ <!script src="https://replit.com/public/js/replit-badge.js" theme="blue" defer></script> 
+</body>
+
+</html>
+

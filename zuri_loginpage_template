@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>Zuri task 1</title>
+  <link href="style.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+<a href="https://Zuri-Pretask-Registration-Page.perfumegoddess.repl.co">
+  <h1>ZURI REGISTRATION PAGE</h1></a>
+<P>Please fill all the fields in this form</P>
+First Name<br> <input type=text placeholder=John><br><br>
+Last Name<br> <input type="text" placeholder="Doe"><br><br>
+Phone Number<br> <input type=mobile number placeholder="08000000000"><br><br>
+Email<br> <input type=mail placeholder="zuri@gmail.com"><br><br>
+<span>Gender<br></span>
+<span> Male<input type=radio name=gender></span><br>
+<span>Female<input type=radio name=gender></span><br>
+<span>Prefer not to say<input type=radio name=gender><br> <br></span>
+Date of Birth<br><input type=date placeholder="dd/mm/yyyy"><br><br>
+Favourite Color<br> <input type=color type="radio"><br><br>
+<form><input type="submit" value="Submit"><br>
+<input type="reset" value="Reset">
+</form>
+
+<a href="https://Zuri-pretask-Log-in-Page.perfumegoddess.repl.co">
+  <h1>ZURI LOGIN PAGE</h1></a>
+<center>Email<br>
+<input type="text" placeholder="zuri@gmail.com"><br><br>
+Password<br>
+<input type="text" placeholder="abcdefghijk"><br><br>
+<a href="https://Zuri-pretask-Sucess-Navigation-page.perfumegoddess.repl.co"><input type="submit" value="Submit">
+</center></a>
+
+<a href="https://Zuri-pretask-Sucess-Navigation-page.perfumegoddess.repl.co">
+  <h1>ZURI SUCCESS PAGE</h1></a>
+<center><strong>Congratulations!<br>Log in successfull! WELCOME TO ZURI !</strong><br></center>
+
+
+  <script src="script.js"></script>
+
+  <script src="script.js"></script>
+
+  <script src="https://replit.com/public/js/replit-badge.js" theme="blue" defer></script> 
+</body>
+
+</html>
+

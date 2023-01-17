@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>replit</title>
+  <link href="style.css" rel="stylesheet" type="text/css" />
+</head>
+
+<a href="https://Zuri-pretask-Sucess-Navigation-page.perfumegoddess.repl.co">
+  <h1>ZURI SUCCESS PAGE</h1></a>
+<center><strong>Congratulations!<br>Log in successfull! WELCOME TO ZURI !</strong><br>
+</center>
+
+  <script src="script.js"></script>
+
+ <sript src="https://replit.com/public/js/replit-badge.js" theme="blue" defer></script> 
+</body>
+
+</html>
+

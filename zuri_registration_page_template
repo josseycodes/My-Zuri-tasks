@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>replit</title>
+  <link href="style.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+   <h1>ZURI REGISTRATION PAGE</h1>
+<P>Please fill all the fields in this form</P>
+First Name<br> <input type=text placeholder=John><br><br>
+Last Name<br> <input type="text" placeholder="Doe"><br><br>
+Phone Number<br> <input type=mobile number placeholder="08000000000"><br><br>
+Email<br> <input type=mail placeholder="zuri@gmail.com"><br><br>
+<span>Gender<br></span>
+<span> Male<input type=radio name=gender></span><br>
+<span>Female<input type=radio name=gender></span><br>
+<span>Prefer not to say<input type=radio name=gender><br> <br></span>
+Date of Birth<br><input type=date placeholder="dd/mm/yyyy"><br><br>
+Favourite Color<br> <input type=color type="radio"><br><br>
+<form><input type="submit" value="Submit"><br>
+<input type="reset" value="Reset">
+</form>
+
+
